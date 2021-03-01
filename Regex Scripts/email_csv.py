@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#Lab conducted on a remote GCP instance using a local CSV data file
 
 import re
 import csv
