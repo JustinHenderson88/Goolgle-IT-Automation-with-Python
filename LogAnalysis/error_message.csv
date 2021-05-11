@@ -1,0 +1,50 @@
+Error,Count
+Timeout while retrieving information (oren),3
+Timeout while retrieving information (xlg),3
+Timeout while retrieving information (blossom),2
+Tried to add information to closed ticket (noel),2
+Connection to DB failed (breee),2
+Ticket doesn't exist (blossom),2
+Connection to DB failed (oren),2
+Connection to DB failed (jackowens),2
+Tried to add information to closed ticket (jackowens),2
+Timeout while retrieving information (ahmed.miller),2
+The ticket was modified while updating (breee),2
+Timeout while retrieving information (montanap),2
+Tried to add information to closed ticket (oren),2
+Ticket doesn't exist (flavia),2
+Permission denied while closing ticket (montanap),2
+Connection to DB failed (ac),1
+The ticket was modified while updating (noel),1
+Ticket doesn't exist (xlg),1
+Timeout while retrieving information (mcintosh),1
+Connection to DB failed (mai.hendrix),1
+Tried to add information to closed ticket (nonummy),1
+Ticket doesn't exist (enim.non),1
+Permission denied while closing ticket (flavia),1
+Permission denied while closing ticket (ac),1
+The ticket was modified while updating (mdouglas),1
+Connection to DB failed (nonummy),1
+Permission denied while closing ticket (blossom),1
+Connection to DB failed (bpacheco),1
+Connection to DB failed (kirknixon),1
+Permission denied while closing ticket (mai.hendrix),1
+Timeout while retrieving information (flavia),1
+Timeout while retrieving information (mai.hendrix),1
+Ticket doesn't exist (nonummy),1
+Connection to DB failed (mdouglas),1
+Permission denied while closing ticket (enim.non),1
+The ticket was modified while updating (enim.non),1
+Tried to add information to closed ticket (mdouglas),1
+Tried to add information to closed ticket (ahmed.miller),1
+Tried to add information to closed ticket (sri),1
+Permission denied while closing ticket (britanni),1
+The ticket was modified while updating (blossom),1
+Permission denied while closing ticket (ahmed.miller),1
+Tried to add information to closed ticket (mcintosh),1
+Permission denied while closing ticket (rr.robinson),1
+The ticket was modified while updating (mcintosh),1
+The ticket was modified while updating (bpacheco),1
+Tried to add information to closed ticket (breee),1
+Connection to DB failed (sri),1
+The ticket was modified while updating (flavia),1
